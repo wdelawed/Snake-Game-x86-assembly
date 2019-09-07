@@ -11,6 +11,6 @@
 *  loader folder which is used to overcome 512 byte limit of the mbr 
 *  main.asm file: the file which the game starts from 
 
-##demo
+## demo
 
-! [game_demo.gif] (game_demo.gif)
+![game_demo.gif](game_demo.gif)
