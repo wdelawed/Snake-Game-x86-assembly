@@ -14,3 +14,7 @@
 ## demo
 
 ![game_demo.gif](game_demo.gif)
+
+## links
+[video demo](https://youtu.be/7XPdOz1tOuA)
+[how to install](https://youtu.be/H0WV5VWa3Ho)
